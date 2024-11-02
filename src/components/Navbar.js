@@ -9,10 +9,10 @@ const Navbar = () => {
                 <h4 className="font-bold text-white text-3xl">PSW</h4>
             </div>
             <div className="text-white m-8 flex items-center justify-center gap-4 text-2xl">
-                <a href="www.facebook.com/plus.u.7">
+                <a>
                     <FaFacebook className="hover:text-cyan-300" />
                 </a>
-                <a href="github.com/PSW-CODER">
+                <a>
                     <FaGithub className="hover:text-cyan-300" />
                 </a>
             </div>
